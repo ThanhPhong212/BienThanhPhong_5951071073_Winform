@@ -1,0 +1,10 @@
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\bin\Debug\BienThanhPhong_5951071073.exe.config
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\bin\Debug\BienThanhPhong_5951071073.exe
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\bin\Debug\BienThanhPhong_5951071073.pdb
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.csprojAssemblyReference.cache
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.Form1.resources
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.Properties.Resources.resources
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.csproj.GenerateResource.cache
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.exe
+C:\Users\Thanh Phong\Desktop\Tài liệu\Lập trình API\BienThanhPhong_5951071073\BienThanhPhong_5951071073\obj\Debug\BienThanhPhong_5951071073.pdb
